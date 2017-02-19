@@ -103,11 +103,10 @@ div#CatList ul li.RSS {
     background-size: 18px !important;
 }
 
- /* TODO: half rss feed */
-/*div#CatList ul li.RSSGroup {
-    background-image: url(../../images/tstatus.png);
-    background-position: 4px -239px;
-}*/
+div#CatList ul li.RSSGroup {
+    background: url(./images/tb_rss_group.svg) 2px 0px no-repeat !important;
+    background-size: 18px !important;
+}
 
 .stable-icon {background-image: url(../images/tstatus.png); background-repeat: no-repeat}
 .Status_Down {background: transparent url(./images/t_down.svg) no-repeat center center !important; background-size: 16px !important;}
