@@ -271,3 +271,7 @@ div#dlgLabel div.dlg-header {
 div#dlgProps div.dlg-header {
     background-image: url(./images/file.svg) !important; background-size: 20px !important;
 }
+
+div#yesnoDlg div.dlg-header {
+    background-image: url(./images/yellow.svg) !important; background-size: 20px !important;
+}
