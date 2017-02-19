@@ -1,5 +1,51 @@
 html, body {background-color: #181818; color: #999999; }
-div#preload {width: 0px; height: 0px; display: none; background-image: url(./images/toolbar.png); background-image: url(./images/tstatus.png); background-image: url(./images/t_bg.png); background-image: url(./images/r_bg.gif); background-image: url(./images/i_bg.gif); background-image: url(./images/asc.gif); background-image: url(./images/desc.gif); background-image: url(./images/pnl_open.gif); background-image: url(./images/pnl_close.gif)}
+div#preload {
+    width: 0px; height: 0px; display: none;
+    background-image: url(./images/tb_add.svg);
+    background-image: url(./images/tb_create.svg);
+    background-image: url(./images/tb_trash.svg);
+    background-image: url(./images/tb_start.svg);
+    background-image: url(./images/tb_pause.svg);
+    background-image: url(./images/tb_stop.svg);
+    background-image: url(./images/tb_moveu.svg);
+    background-image: url(./images/tb_moved.svg);
+    background-image: url(./images/tb_search.svg);
+    background-image: url(./images/tb_rss.svg);
+    background-image: url(./images/tb_setting.svg);
+    background-image: url(./images/menuexp.svg);
+    background-image: url(./images/menusel.svg);
+    background-image: url(./images/tb_rss.svg);
+    background-image: url(./images/t_error.svg);
+    background-image: url(./images/close.svg);
+    background-image: url(./images/yellow.svg);
+    background-image: url(./images/red.svg);
+    background-image: url(./images/green.svg);
+    background-image: url(./images/pnl_open.svg);
+    background-image: url(./images/pnl_close.svg);
+    background-image: url(./images/file.svg);
+    background-image: url(./images/dir.svg);
+    background-image: url(./images/dir.svg);
+    background-image: url(./images/t_down.svg);
+    background-image: url(./images/t_up.svg);
+    background-image: url(./images/t_inactive.svg);
+    background-image: url(./images/t_paused.svg);
+    background-image: url(./images/t_error_down.svg);
+    background-image: url(./images/t_error_up.svg);
+    background-image: url(./images/t_error.svg);
+    background-image: url(./images/t_completed.svg);
+    background-image: url(./images/t_queued_down.svg);
+    background-image: url(./images/t_queued_up.svg);
+    background-image: url(./images/t_active.svg);
+    background-image: url(./images/t_all.svg);
+    background-image: url(./images/rb_rss.svg);
+    background-image: url(./images/pnl_open.svg);
+    background-image: url(./images/quest.svg);
+    background-image: url(./images/go.svg);
+    background-image: url(./images/plugin.svg);
+    background-image: url(./images/yellow.svg);
+    background-image: url(./images/red.svg);
+    background-image: url(./images/green.svg);
+}
 div#cover {background: #181818}
 div#msg {background: #181818; border-top: 1px solid #333333; border-bottom: 1px solid #333333}
 div#sc {border: 1px solid #333333; background-color: #181818}
