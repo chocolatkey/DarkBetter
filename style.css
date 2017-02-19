@@ -252,7 +252,7 @@ div#dlgEditRules div.dlg-header, div#dlgEditFilters div.dlg-header {
     background: transparent url(./images/tb_rss.svg) no-repeat left center !important; background-size: 20px !important;
 }
 
-div#dlgEditRatioRules div.dlg-header, div#tedit div.dlg-header, div#padd div.dlg-header {
+div#dlgEditRatioRules div.dlg-header, div#tedit div.dlg-header, div#padd div.dlg-header, div#tskConsole div.dlg-header {
     background: transparent url(./images/edit.svg) no-repeat left center !important; background-size: 20px !important;
 }
 
