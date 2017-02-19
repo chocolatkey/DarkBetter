@@ -1,0 +1,21 @@
+.tskconsole, .exconsole, .console, .starterConsole {background: #333333}
+.cCell {color: black; border-color: #888888}
+
+.shieven {background: #333333; }
+.shiodd {background: #191919; }
+
+.Cell0 { border: 1px dotted #888888; }
+
+#meter-disk-td { background: url(./images/disk.svg) no-repeat !important; background-size: 22px !important; }
+#meter-cpu-td { background: url(./images/cpu.svg) no-repeat !important; background-size: 22px !important; }
+
+div#dlg_unpack div.dlg-header { background: transparent url(./images/edit.svg) no-repeat left center !important; background-size: 22px !important; }
+
+#lbl_nlb {
+    content:url(./images/no_label.svg);
+}
+
+
+#-_-_-nlb-_-_- {
+    padding: 2px 3px !important;
+}
