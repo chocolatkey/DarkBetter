@@ -242,36 +242,40 @@ span#loadimg {background: transparent url(./images/ajax-loader.gif) no-repeat ce
 .statuscell {border-right: 1px solid #333333;}
 
 
-div#stg-header { background-image: url(./images/settings.svg); background-size: 20px; }
+div#stg-header { background: url(./images/settings.svg) no-repeat 2px center !important; background-size: 20px; padding-left: 28px; }
 
 div#tcreate div.dlg-header {
-    background: transparent url(./images/tb_create.svg) no-repeat left center !important; background-size: 20px !important;
+    background: transparent url(./images/tb_create.svg) no-repeat 2px center !important; background-size: 20px !important;
 }
 
 div#dlgEditRules div.dlg-header, div#dlgEditFilters div.dlg-header {
-    background: transparent url(./images/tb_rss.svg) no-repeat left center !important; background-size: 20px !important;
+    background: transparent url(./images/tb_rss.svg) no-repeat 2px center !important; background-size: 20px !important;
 }
 
 div#dlgEditRatioRules div.dlg-header, div#tedit div.dlg-header, div#padd div.dlg-header, div#tskConsole div.dlg-header {
-    background: transparent url(./images/edit.svg) no-repeat left center !important; background-size: 20px !important;
+    background: transparent url(./images/edit.svg) no-repeat 2px center !important; background-size: 20px !important;
 }
 
 div#tadd-header {
-    background: transparent url(./images/world.svg) no-repeat left center !important; background-size: 20px !important;
+    background: transparent url(./images/world.svg) no-repeat 2px center !important; background-size: 20px !important;
 }
 
 div#dlgHelp div.dlg-header {
-    background: transparent url(./images/quest.svg) no-repeat left center !important; background-size: 20px !important;
+    background: transparent url(./images/quest.svg) no-repeat 2px center !important; background-size: 20px !important;
 }
 
 div#dlgLabel div.dlg-header {
-    background-image: url(./images/label.svg) !important; background-size: 20px !important;
+    background: url(./images/label.svg) no-repeat 2px center !important; background-size: 20px !important;
 }
 
 div#dlgProps div.dlg-header {
-    background-image: url(./images/file.svg) !important; background-size: 20px !important;
+    background: url(./images/file.svg) no-repeat 2px center !important; background-size: 20px !important;
 }
 
 div#yesnoDlg div.dlg-header {
-    background-image: url(./images/yellow.svg) !important; background-size: 20px !important;
+    background: url(./images/yellow.svg) no-repeat 2px center !important; background-size: 20px !important;
+}
+
+div.dlg-header {
+    
 }
