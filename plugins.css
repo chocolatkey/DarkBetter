@@ -33,7 +33,6 @@ div#dlg_unpack div.dlg-header, div#cadd div.dlg-header { background: transparent
 .geoip_flag_ai {background-image: url( "./images/flags/ai.svg" ); }
 .geoip_flag_al {background-image: url( "./images/flags/al.svg" ); }
 .geoip_flag_am {background-image: url( "./images/flags/am.svg" ); }
-.geoip_flag_an {background-image: url( "./images/flags/an.svg" ); }
 .geoip_flag_ao {background-image: url( "./images/flags/ao.svg" ); }
 .geoip_flag_aq {background-image: url( "./images/flags/aq.svg" ); }
 .geoip_flag_ar {background-image: url( "./images/flags/ar.svg" ); }
@@ -52,9 +51,11 @@ div#dlg_unpack div.dlg-header, div#cadd div.dlg-header { background: transparent
 .geoip_flag_bh {background-image: url( "./images/flags/bh.svg" ); }
 .geoip_flag_bi {background-image: url( "./images/flags/bi.svg" ); }
 .geoip_flag_bj {background-image: url( "./images/flags/bj.svg" ); }
+.geoip_flag_bl {background-image: url( "./images/flags/bl.svg" ); }
 .geoip_flag_bm {background-image: url( "./images/flags/bm.svg" ); }
 .geoip_flag_bn {background-image: url( "./images/flags/bn.svg" ); }
 .geoip_flag_bo {background-image: url( "./images/flags/bo.svg" ); }
+.geoip_flag_bq {background-image: url( "./images/flags/bq.svg" ); }
 .geoip_flag_br {background-image: url( "./images/flags/br.svg" ); }
 .geoip_flag_bs {background-image: url( "./images/flags/bs.svg" ); }
 .geoip_flag_bt {background-image: url( "./images/flags/bt.svg" ); }
@@ -77,6 +78,7 @@ div#dlg_unpack div.dlg-header, div#cadd div.dlg-header { background: transparent
 .geoip_flag_cr {background-image: url( "./images/flags/cr.svg" ); }
 .geoip_flag_cu {background-image: url( "./images/flags/cu.svg" ); }
 .geoip_flag_cv {background-image: url( "./images/flags/cv.svg" ); }
+.geoip_flag_cw {background-image: url( "./images/flags/cw.svg" ); }
 .geoip_flag_cx {background-image: url( "./images/flags/cx.svg" ); }
 .geoip_flag_cy {background-image: url( "./images/flags/cy.svg" ); }
 .geoip_flag_cz {background-image: url( "./images/flags/cz.svg" ); }
@@ -165,6 +167,7 @@ div#dlg_unpack div.dlg-header, div#cadd div.dlg-header { background: transparent
 .geoip_flag_mc {background-image: url( "./images/flags/mc.svg" ); }
 .geoip_flag_md {background-image: url( "./images/flags/md.svg" ); }
 .geoip_flag_me {background-image: url( "./images/flags/me.svg" ); }
+.geoip_flag_mf {background-image: url( "./images/flags/mf.svg" ); }
 .geoip_flag_mg {background-image: url( "./images/flags/mg.svg" ); }
 .geoip_flag_mh {background-image: url( "./images/flags/mh.svg" ); }
 .geoip_flag_mk {background-image: url( "./images/flags/mk.svg" ); }
@@ -234,6 +237,7 @@ div#dlg_unpack div.dlg-header, div#cadd div.dlg-header { background: transparent
 .geoip_flag_ss {background-image: url( "./images/flags/ss.svg" ); }
 .geoip_flag_st {background-image: url( "./images/flags/st.svg" ); }
 .geoip_flag_sv {background-image: url( "./images/flags/sv.svg" ); }
+.geoip_flag_sx {background-image: url( "./images/flags/sx.svg" ); }
 .geoip_flag_sy {background-image: url( "./images/flags/sy.svg" ); }
 .geoip_flag_sz {background-image: url( "./images/flags/sz.svg" ); }
 .geoip_flag_tc {background-image: url( "./images/flags/tc.svg" ); }
@@ -247,7 +251,6 @@ div#dlg_unpack div.dlg-header, div#cadd div.dlg-header { background: transparent
 .geoip_flag_tm {background-image: url( "./images/flags/tm.svg" ); }
 .geoip_flag_tn {background-image: url( "./images/flags/tn.svg" ); }
 .geoip_flag_to {background-image: url( "./images/flags/to.svg" ); }
-.geoip_flag_tp {background-image: url( "./images/flags/tp.svg" ); }
 .geoip_flag_tr {background-image: url( "./images/flags/tr.svg" ); }
 .geoip_flag_tt {background-image: url( "./images/flags/tt.svg" ); }
 .geoip_flag_tv {background-image: url( "./images/flags/tv.svg" ); }
@@ -255,7 +258,6 @@ div#dlg_unpack div.dlg-header, div#cadd div.dlg-header { background: transparent
 .geoip_flag_tz {background-image: url( "./images/flags/tz.svg" ); }
 .geoip_flag_ua {background-image: url( "./images/flags/ua.svg" ); }
 .geoip_flag_ug {background-image: url( "./images/flags/ug.svg" ); }
-.geoip_flag_uk {background-image: url( "./images/flags/uk.svg" ); }
 .geoip_flag_um {background-image: url( "./images/flags/um.svg" ); }
 .geoip_flag_un {background-image: url( "./images/flags/un.svg" ); }
 .geoip_flag_us {background-image: url( "./images/flags/us.svg" ); }
