@@ -52,13 +52,13 @@ div#msg {background: #181818; border-top: 1px solid #333333; border-bottom: 1px 
 div#sc {border: 1px solid #333333; background-color: #181818}
 div#sc li.se_act div {background-color: #333333; color: #888888}
 div#lng {background-color:#181818; border:1px solid #333333}
-ul.CMenu {border: 1px solid #333333; border-right: 2px solid #333333; border-bottom: 2px solid #333333; background: #181818; }
+ul.CMenu {border: 1px solid #333333; border-right: 2px solid #333333; border-bottom: 2px solid #333333; background: #181818}
 ul.CMenu li {background: #181818}
 ul.CMenu li a.dis {color: #333333}
 ul.CMenu li a.dis:hover {background-color: #181818; color: #333333}
 ul.CMenu li hr {border-top: 1px solid #333333}
-ul.CMenu li a.exp {background: transparent url(./images/menuexp.svg) no-repeat scroll 138px center; background-size: 10px;}
-ul.CMenu li a.sel {background: transparent url(./images/menusel.svg) no-repeat scroll 4px center; background-size: 8px;}
+ul.CMenu li a.exp {background: transparent url(./images/menuexp.svg) no-repeat scroll 138px center; background-size: 10px}
+ul.CMenu li a.sel {background: transparent url(./images/menusel.svg) no-repeat scroll 4px center; background-size: 8px}
 ul.CMenu li a:hover {background-color: #888888; color: #111111}
 
 ul.CMenu li:hover ul li a {background-color: #181818; color: #666666}
@@ -66,30 +66,30 @@ ul.CMenu li:hover ul li a:hover {background-color: #888888; color: #111111}
 ul.CMenu li ul li a.dis {color: #333333}
 ul.CMenu li ul li a.dis:hover {background-color: #181818; color: #333333}
 
-#sel {border: 1px dotted #555555;}
+#sel {border: 1px dotted #555555}
 
 div#t {background: #181818 url(./images/t_bg.png) repeat-x center center; border-bottom: 1px solid #333333;}
 div#t a:hover {background: #222;}
 div#t div.TB_Separator {background-color: #333333}
-div#t div#add {background: transparent url(./images/tb_add.svg) no-repeat center; background-size: 28px;}
-div#t div#create {background: transparent url(./images/tb_create.svg) no-repeat center; background-size: 28px;}
-div#t div#remove {background: transparent url(./images/tb_trash.svg) no-repeat center; background-size: 28px;}
-div#t div#start {background: transparent url(./images/tb_start.svg) no-repeat center; background-size: 48px;}
-div#t div#pause {background: transparent url(./images/tb_pause.svg) no-repeat center; background-size: 48px;}
-div#t div#stop {background: transparent url(./images/tb_stop.svg) no-repeat center; background-size: 48px;}
-div#t div#moveu {background: transparent url(./images/tb_moveu.svg) no-repeat center; background-size: 28px;}
-div#t div#moved {background: transparent url(./images/tb_moved.svg) no-repeat center; background-size: 28px;}
-div#t div#search {background: transparent url(./images/tb_search.svg) no-repeat center; background-size: 28px;}
-div#t div#rss {background: transparent url(./images/tb_rss.svg) no-repeat center; background-size: 28px;}
-div#t div#setting {background: transparent url(./images/tb_setting.svg) no-repeat center; background-size: 26px;}
+div#t div#add {background: transparent url(./images/tb_add.svg) no-repeat center; background-size: 28px}
+div#t div#create {background: transparent url(./images/tb_create.svg) no-repeat center; background-size: 28px}
+div#t div#remove {background: transparent url(./images/tb_trash.svg) no-repeat center; background-size: 28px}
+div#t div#start {background: transparent url(./images/tb_start.svg) no-repeat center; background-size: 48px}
+div#t div#pause {background: transparent url(./images/tb_pause.svg) no-repeat center; background-size: 48px}
+div#t div#stop {background: transparent url(./images/tb_stop.svg) no-repeat center; background-size: 48px}
+div#t div#moveu {background: transparent url(./images/tb_moveu.svg) no-repeat center; background-size: 28px}
+div#t div#moved {background: transparent url(./images/tb_moved.svg) no-repeat center; background-size: 28px}
+div#t div#search {background: transparent url(./images/tb_search.svg) no-repeat center; background-size: 28px}
+div#t div#rss {background: transparent url(./images/tb_rss.svg) no-repeat center; background-size: 28px}
+div#t div#setting {background: transparent url(./images/tb_setting.svg) no-repeat center; background-size: 26px}
 
-div#t div#help {background: transparent url(./images/quest.svg) no-repeat center; background-size: 28px;}
-div#t div#go {background: transparent url(./images/go.svg) no-repeat center; background-size: 28px;}
-div#t div#plugins {background: transparent url(./images/plugin.svg) no-repeat center; background-size: 28px;}
+div#t div#help {background: transparent url(./images/quest.svg) no-repeat center; background-size: 28px}
+div#t div#go {background: transparent url(./images/go.svg) no-repeat center; background-size: 28px}
+div#t div#plugins {background: transparent url(./images/plugin.svg) no-repeat center; background-size: 28px}
 
-#StatusBar table tr td.pstatus0 { background: url(./images/yellow.svg) no-repeat !important; background-size: 22px !important; }
-#StatusBar table tr td.pstatus1 { background: url(./images/red.svg) no-repeat !important; background-size: 22px !important; }
-#StatusBar table tr td.pstatus2 { background: url(./images/green.svg) no-repeat !important; background-size: 22px !important; }
+#StatusBar table tr td.pstatus0 {background: url(./images/yellow.svg) no-repeat !important; background-size: 22px !important}
+#StatusBar table tr td.pstatus1 {background: url(./images/red.svg) no-repeat !important; background-size: 22px !important}
+#StatusBar table tr td.pstatus2 {background: url(./images/green.svg) no-repeat !important; background-size: 22px !important}
 
 a.dlg-close:hover, a.dlg-close:link, a.dlg-close:visited {
     background: transparent url(./images/close.svg) center; background-size: 22px !important;
@@ -110,27 +110,27 @@ div#CatList ul li.RSSGroup {
 }
 
 .stable-icon {background-image: url(../images/tstatus.png); background-repeat: no-repeat}
-.Status_Down {background: transparent url(./images/t_down.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_Up {background: transparent url(./images/t_up.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_Incompleted {background: transparent url(./images/t_inactive.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_Paused {background: transparent url(./images/t_paused.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_Error_Down {background: transparent url(./images/t_error_down.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_Error_Up {background: transparent url(./images/t_error_up.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_Error {background: transparent url(./images/t_error.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_Completed {background: transparent url(./images/t_completed.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_Queued_Down {background: transparent url(./images/t_queued_down.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_Queued_Up {background: transparent url(./images/t_queued_up.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_Up_Down {background: transparent url(./images/t_active.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_Checking {background: transparent url(./images/t_all.svg) no-repeat center center !important; background-size: 16px !important;}
-.Status_RSS {background: transparent url(./images/rb_rss.svg) no-repeat center center !important; background-size: 16px !important;}
+.Status_Down {background: transparent url(./images/t_down.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_Up {background: transparent url(./images/t_up.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_Incompleted {background: transparent url(./images/t_inactive.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_Paused {background: transparent url(./images/t_paused.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_Error_Down {background: transparent url(./images/t_error_down.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_Error_Up {background: transparent url(./images/t_error_up.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_Error {background: transparent url(./images/t_error.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_Completed {background: transparent url(./images/t_completed.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_Queued_Down {background: transparent url(./images/t_queued_down.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_Queued_Up {background: transparent url(./images/t_queued_up.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_Up_Down {background: transparent url(./images/t_active.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_Checking {background: transparent url(./images/t_all.svg) no-repeat center center !important; background-size: 16px !important}
+.Status_RSS {background: transparent url(./images/rb_rss.svg) no-repeat center center !important; background-size: 16px !important}
 
-#-_-_-all-_-_-, #-_-_-dls-_-_-, #-_-_-com-_-_-, #-_-_-act-_-_-, #-_-_-iac-_-_-, #-_-_-err-_-_- {!important; background-size: 18px !important; background-position: 2px 0px;}
-#-_-_-all-_-_- {background-image: url(./images/t_all.svg) !important;}
-#-_-_-dls-_-_- {background-image: url(./images/t_down.svg) !important;}
-#-_-_-com-_-_- {background-image: url(./images/t_up.svg) !important;}
-#-_-_-act-_-_- {background-image: url(./images/t_active.svg) !important;}
-#-_-_-iac-_-_- {background-image: url(./images/t_inactive.svg) !important;}
-#-_-_-err-_-_- {background-image: url(./images/t_error.svg) !important;}
+#-_-_-all-_-_-, #-_-_-dls-_-_-, #-_-_-com-_-_-, #-_-_-act-_-_-, #-_-_-iac-_-_-, #-_-_-err-_-_- {!important; background-size: 18px !important; background-position: 2px 0px}
+#-_-_-all-_-_- {background-image: url(./images/t_all.svg) !important}
+#-_-_-dls-_-_- {background-image: url(./images/t_down.svg) !important}
+#-_-_-com-_-_- {background-image: url(./images/t_up.svg) !important}
+#-_-_-act-_-_- {background-image: url(./images/t_active.svg) !important}
+#-_-_-iac-_-_- {background-image: url(./images/t_inactive.svg) !important}
+#-_-_-err-_-_- {background-image: url(./images/t_error.svg) !important}
 
 input.Textbox, input.Button, select {border: 1px solid #333333}
 Input.TextboxShort {border: 1px solid #333333}
@@ -169,27 +169,27 @@ a {color: #686868}
 
 div#CatList {border: 1px solid #333333; background-color: #181818}
 div#CatList ul li {border-color: #181818}
-div#CatList ul li.sel {background-color: #888888 !important; color:#111111; border-color: #888888 }
+div#CatList ul li.sel {background-color: #888888 !important; color:#111111; border-color: #888888}
 #-_-_-all-_-_-, #-_-_-dls-_-_-, #-_-_-com-_-_-, #-_-_-act-_-_-, #-_-_-iac-_-_-, #-_-_-err-_-_- {background-image: url(./images/tstatus.png)}
-div#CatList ul li.disRSS {background-image: url(./images/tstatus.png); }
-.stable-icon {background-image: url(./images/tstatus.png);}
-.Icon_File {background: transparent url(./images/file.svg) no-repeat left center; background-size: 16px;}
-.Icon_Dir {background: transparent url(./images/dir.svg) no-repeat left center; background-size: 16px;}
-.Icon_Share {background: transparent url(./images/dir.svg) no-repeat left center; background-size: 16px;}
+div#CatList ul li.disRSS {background-image: url(./images/tstatus.png)}
+.stable-icon {background-image: url(./images/tstatus.png)}
+.Icon_File {background: transparent url(./images/file.svg) no-repeat left center; background-size: 16px}
+.Icon_Dir {background: transparent url(./images/dir.svg) no-repeat left center; background-size: 16px}
+.Icon_Share {background: transparent url(./images/dir.svg) no-repeat left center; background-size: 16px}
 
 div.tab {background: #181818}
 div#lcont {background: #181818}
 div#gcont table td.Header {background: #181818}
 div.graph_tab {background-color: #181818}
 div.table_tab {background-color: #181818}
-div#List {border: 1px solid #333333;}
+div#List {border: 1px solid #333333}
 
-div#modalbg {background-color: #181818;}
+div#modalbg {background-color: #181818}
 
 div#List {border: 1px solid #333333; background-color: #181818}
 div#FileList, div#TrackerList, div#PeerList, div#Speed {background-color: #181818}
 
-div#stg { background-color: #181818; color: #888888; border: 1px solid #333333}
+div#stg {background-color: #181818; color: #888888; border: 1px solid #333333}
 
 div#stg-header {background-color: #181818; border-bottom: 1px solid #333333}
 div#stg .lm {background-color: #181818; border: 1px solid #333333}
@@ -217,16 +217,16 @@ div#tadd-header {background-color: #181818; border-bottom: 1px solid #333333}
 .tabbar li.selected a {border-top: 2px solid #999999; background: #181818; color: #888888}
 div#dlgProps textarea#prop-trackers {background: #181818; border: 1px solid #333333}
 
-div.dlg-window {background-color: #181818; color: #888888; border: 1px solid #333333;}
-div.dlg-header { background-color: #181818; border-bottom: 1px solid #333333}
+div.dlg-window {background-color: #181818; color: #888888; border: 1px solid #333333}
+div.dlg-header {background-color: #181818; border-bottom: 1px solid #333333}
 
 div.tab {background-color: #181818}
 
-div#t div#ind {background: transparent url(./images/ajax-loader.gif) no-repeat 0px center; background-size: 28px;}
+div#t div#ind {background: transparent url(./images/ajax-loader.gif) no-repeat 0px center; background-size: 28px}
 
-span#loadimg {background: transparent url(./images/ajax-loader.gif) no-repeat center center; background-size: 28px;}
+span#loadimg {background: transparent url(./images/ajax-loader.gif) no-repeat center center; background-size: 28px}
 
-.catpanel { background: url(./images/pnl_open.svg) 4px no-repeat; background-size: 14px; background-color: #111111; border-bottom: 1px solid #333333; border-top: 1px solid #333333;  }
+.catpanel {background: url(./images/pnl_open.svg) 4px no-repeat; background-size: 14px; background-color: #111111; border-bottom: 1px solid #333333; border-top: 1px solid #333333}
 .catpanel[style*="pnl_open.gif"] {
     background: url(./images/pnl_open.svg) 4px no-repeat !important; background-size: 14px !important;
 }
@@ -236,13 +236,15 @@ span#loadimg {background: transparent url(./images/ajax-loader.gif) no-repeat ce
 }
 
 
-#StatusBar { border-top: 1px solid #333333; background-color: #181818; color: #888888 }
-#st_up { background:url(./images/up.svg) no-repeat; background-size: 22px; }
-#st_down { background:url(./images/down.svg) no-repeat; background-size: 22px; }
-.statuscell {border-right: 1px solid #333333;}
+#StatusBar {border-top: 1px solid #333333; background-color: #181818; color: #888888}
+#st_up {background:url(./images/up.svg) no-repeat; background-size: 22px}
+#st_down {background:url(./images/down.svg) no-repeat; background-size: 22px}
+.statuscell {border-right: 1px solid #333333}
 
 
-div#stg-header { background: url(./images/settings.svg) no-repeat 2px center !important; background-size: 20px; padding-left: 28px; }
+div#stg-header {
+    background: url(./images/settings.svg) no-repeat 2px center !important; background-size: 20px; padding-left: 28px;
+}
 
 div#tcreate div.dlg-header {
     background: transparent url(./images/tb_create.svg) no-repeat 2px center !important; background-size: 20px !important;
@@ -276,6 +278,4 @@ div#yesnoDlg div.dlg-header {
     background: url(./images/yellow.svg) no-repeat 2px center !important; background-size: 20px !important;
 }
 
-div.dlg-header {
-    
-}
+div.dlg-header {}
