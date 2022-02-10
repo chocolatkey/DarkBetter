@@ -234,6 +234,8 @@ span#loadimg {background: transparent url(./images/ajax-loader.gif) no-repeat ce
 .catpanel[style*="pnl_close.gif"] {
     background: url(./images/pnl_close.svg) 4px no-repeat !important; background-size: 14px !important;
 }
+span.label-count,span.label-size { background-color: #111111; }
+li.sel span.label-count,li.sel span.label-size { background-color: #999999; }
 
 
 #StatusBar {border-top: 1px solid #333333; background-color: #181818; color: #888888}
