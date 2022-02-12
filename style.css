@@ -99,12 +99,12 @@ a.dlg-close:active {
     background: transparent url(./images/t_error.svg) center;
 }
 
-div#CatList ul li.RSS {
+div#CatList ul li.RSS .label-icon {
     background: url(./images/tb_rss.svg) 2px 0px no-repeat;
     background-size: 18px !important;
 }
 
-div#CatList ul li.RSSGroup {
+div#CatList ul li.RSSGroup .label-icon {
     background: url(./images/tb_rss_group.svg) 2px 0px no-repeat !important;
     background-size: 18px !important;
 }
@@ -124,13 +124,16 @@ div#CatList ul li.RSSGroup {
 .Status_Checking {background: transparent url(./images/t_all.svg) no-repeat center center !important; background-size: 16px !important}
 .Status_RSS {background: transparent url(./images/rb_rss.svg) no-repeat center center !important; background-size: 16px !important}
 
-#-_-_-all-_-_-, #-_-_-dls-_-_-, #-_-_-com-_-_-, #-_-_-act-_-_-, #-_-_-iac-_-_-, #-_-_-err-_-_- {!important; background-size: 18px !important; background-position: 2px 0px}
-#-_-_-all-_-_- {background-image: url(./images/t_all.svg) !important}
-#-_-_-dls-_-_- {background-image: url(./images/t_down.svg) !important}
-#-_-_-com-_-_- {background-image: url(./images/t_up.svg) !important}
-#-_-_-act-_-_- {background-image: url(./images/t_active.svg) !important}
-#-_-_-iac-_-_- {background-image: url(./images/t_inactive.svg) !important}
-#-_-_-err-_-_- {background-image: url(./images/t_error.svg) !important}
+.label-icon { min-width: 18px; min-height: 18px; background-size: 18px !important; background-position: 0px 0px !important; }
+.label-icon img { width: 18px; }
+.-_-_-all-_-_- .label-icon, #-_-_-all-_-_- .label-icon {background-image: url(./images/t_all.svg) !important}
+#-_-_-dls-_-_- .label-icon {background-image: url(./images/t_down.svg) !important}
+#-_-_-com-_-_- .label-icon {background-image: url(./images/t_up.svg) !important}
+#-_-_-act-_-_- .label-icon {background-image: url(./images/t_active.svg) !important}
+#-_-_-iac-_-_- .label-icon {background-image: url(./images/t_inactive.svg) !important}
+#-_-_-err-_-_- .label-icon {background-image: url(./images/t_error.svg) !important}
+#flabel_cont li:not(.-_-_-all-_-_-) .label-icon {background-image: url(./images/tb_search.svg) !important}
+
 
 input.Textbox, input.Button, select {border: 1px solid #333333}
 Input.TextboxShort {border: 1px solid #333333}
@@ -170,8 +173,7 @@ a {color: #686868}
 div#CatList {border: 1px solid #333333; background-color: #181818}
 div#CatList ul li {border-color: #181818}
 div#CatList ul li.sel {background-color: #888888 !important; color:#111111; border-color: #888888}
-#-_-_-all-_-_-, #-_-_-dls-_-_-, #-_-_-com-_-_-, #-_-_-act-_-_-, #-_-_-iac-_-_-, #-_-_-err-_-_- {background-image: url(./images/tstatus.png)}
-div#CatList ul li.disRSS {background-image: url(./images/tstatus.png)}
+div#CatList ul li.disRSS .label-icon {background-image: url(./images/tstatus.png)}
 .stable-icon {background-image: url(./images/tstatus.png)}
 .Icon_File {background: transparent url(./images/file.svg) no-repeat left center; background-size: 16px}
 .Icon_Dir {background: transparent url(./images/dir.svg) no-repeat left center; background-size: 16px}
@@ -236,8 +238,8 @@ span#loadimg {background: transparent url(./images/ajax-loader.gif) no-repeat ce
 .catpanel[style*="pnl_close.gif"] {
     background: url(./images/pnl_close.svg) 4px no-repeat !important; background-size: 14px !important;
 }
-span.label-count,span.label-size { background-color: #111111; }
-li.sel span.label-count,li.sel span.label-size { background-color: #999999; }
+.label-count,.label-size { background-color: #111111; }
+li.sel .label-count,li.sel .label-size { background-color: #999999; }
 
 
 #StatusBar {border-top: 1px solid #333333; background-color: #181818; color: #888888}
