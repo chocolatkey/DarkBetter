@@ -181,6 +181,8 @@ div.tab {background: #181818}
 div#lcont {background: #181818}
 div#gcont table td.Header {background: #181818}
 div.graph_tab {background-color: #181818}
+.graph_tab_legend { color: #FFF; background-color: #181818; }
+.graph_tab_tooltip { color: #FFF; background-color: #606060; border: 1px solid #606060; }
 div.table_tab {background-color: #181818}
 div#List {border: 1px solid #333333}
 
@@ -234,6 +236,8 @@ span#loadimg {background: transparent url(./images/ajax-loader.gif) no-repeat ce
 .catpanel[style*="pnl_close.gif"] {
     background: url(./images/pnl_close.svg) 4px no-repeat !important; background-size: 14px !important;
 }
+span.label-count,span.label-size { background-color: #111111; }
+li.sel span.label-count,li.sel span.label-size { background-color: #999999; }
 
 
 #StatusBar {border-top: 1px solid #333333; background-color: #181818; color: #888888}
